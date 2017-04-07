@@ -1,2 +1,2 @@
-# scikit-learnin-tutorials
+# scikit-learn-tutorials
 some learned cases about using scikit-learin
